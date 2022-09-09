@@ -9,3 +9,5 @@ Welcome, please feel free to contribute to the projects.
 [![Louis Tychon GitHub stats](https://github-readme-stats.vercel.app/api?username=louistychon&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=louistychon)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louistychon&show_icons=true&theme=radical&layout=compact)
+
+💻 Check also my <a href="https://www.codewars.com/users/louistychon">CodeWars profile</a>
